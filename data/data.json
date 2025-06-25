@@ -1,0 +1,67 @@
+{
+  "allEvents": [
+    {
+      "id": "london-comic-con-winter",
+      "title": "London Comic Con Winter",
+      "description": "London Comic Con Winter returns to Olympia London on November 15–16, 2025, offering fans a vibrant weekend of pop culture excitement. From 9am to 6pm daily, attendees can enjoy celebrity meet-and-greets, immersive cosplay showcases, dedicated comic book zones, and a massive selection of exclusive merchandise. Whether you're a fan of sci-fi, fantasy, anime, or superheroes, there's something for everyone. Ticket prices range from £16 for standard entry to £211 for premium VIP experiences.",
+      "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9ufGVufDB8fDB8fHww",
+      "emails_registered": [],
+      "city": "london",
+      "country": "uk"
+    },
+    {
+      "id": "hyde-park-winter-wonderland",
+      "title": "Hyde Park Winter Wonderland",
+      "description": "Hyde Park Winter Wonderland is one of London's most magical festive attractions, returning for the 2025 holiday season with dazzling lights, seasonal entertainment, and family fun. Set in the heart of Hyde Park, it features an ice-skating rink, thrilling rides, a traditional Christmas market, circus shows, and festive food and drink. From ice sculptures to Santa Land for the kids, there's something for all ages. It's the perfect place to soak up the Christmas spirit in a truly enchanting setting.",
+      "image": "https://images.unsplash.com/photo-1479725785701-e033bb8373bb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JTVESHlkZSUyMFBhcmslMjBXaW50ZXIlMjBXb25kZXJsYW5kfGVufDB8fDB8fHww",
+      "emails_registered": [],
+      "city": "london",
+      "country": "uk"
+    },
+    {
+      "id": "ice-festival",
+      "title": "Alaska Ice Festival",
+      "description": "The Alaska Ice Festival, officially known as the World Ice Art Championships, is a world-renowned winter event held annually in Fairbanks, Alaska, typically from mid-February through late March. Hosted at the Tanana Valley Fairgrounds, the festival features breathtaking ice sculptures created by over 100 master artists from around the globe, competing in various categories such as single-block, multi-block, and youth divisions. Beyond the competition, the event includes an interactive Kids’ Park with ice slides, mazes, and games, making it a favorite for families. At night, the sculptures are beautifully illuminated, creating a magical Arctic landscape. Organized by the nonprofit Ice Alaska since 1990, the festival attracts tens of thousands of visitors each year, celebrating creativity, craftsmanship, and the beauty of ice in Alaska’s long winter nights.",
+      "image": "https://images.unsplash.com/photo-1513309264187-5f15e42560c9?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWxhc2thJTIwaWNjZSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
+      "emails_registered": [],
+      "city": "alaska",
+      "country": "us"
+    },
+    {
+      "id": "las-vegas-music-fest",
+      "title": "Las Vegas Music Fest",
+      "description": "The Las Vegas Music Fest is a high-energy celebration of sound, lights, and entertainment held annually in the heart of Las Vegas. Bringing together world-renowned artists from various genres—including pop, rock, EDM, and hip-hop—the festival transforms the city into a live music paradise. Set against the iconic backdrop of the Las Vegas Strip, the event features massive stages, cutting-edge production, and immersive visual experiences. Festivalgoers can expect nonstop performances, celebrity appearances, and a party atmosphere that only Las Vegas can deliver. It's a must-attend event for music lovers seeking unforgettable performances and vibrant nightlife all in one place.",
+      "image": "https://plus.unsplash.com/premium_photo-1671132512859-f50459af3812?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGFzJTIwdmVnYXMlMjBtdXNpYyUyMGZlc3R8ZW58MHx8MHx8fDA%3D",
+      "emails_registered": [],
+      "city": "nevada",
+      "country": "us"
+    },
+    {
+      "id": "car-show-racing-day",
+      "title": "Nevada Car Show & Racing Day",
+      "description": "The Nevada Car Show & Racing Day is an adrenaline-fueled automotive extravaganza held at the iconic Las Vegas Motor Speedway. Blending the excitement of an expansive car exhibition with heart-pounding drag racing, this dynamic event invites attendees to explore a wide variety of eye-catching vehicles—from classic muscle cars to modern hot rods—while live competitions heat things up on the track. Packaged as a weekend experience, it includes general admission, reserved seating, and premium pit access; even VIP suites and RV camping are available for those wanting an all-access, immersive weekend of horsepower and high-performance action.",
+      "image": "https://plus.unsplash.com/premium_photo-1726783382908-36ea029feaf6?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TmV2YWRhJTIwQ2FyJTIwU2hvdyUyMCUyNiUyMFJhY2luZyUyMERheXxlbnwwfHwwfHx8MA%3D%3D",
+      "emails_registered": [],
+      "city": "nevada",
+      "country": "us"
+    },
+    {
+      "id": "maple-syrup-festival",
+      "title": "Maple Syrup Festival",
+      "description": "The Maple Syrup Festival is a beloved springtime event that celebrates the age-old tradition of maple syrup making. Held in maple-producing regions across North America, the festival features live demonstrations of tree tapping and syrup boiling, often using both traditional and modern methods. Visitors can enjoy classic treats like pancakes with fresh syrup, maple taffy on snow, and local delicacies, while also exploring craft markets, music, and family-friendly activities such as hayrides and nature walks. It's a fun and flavorful way to welcome the arrival of spring and connect with local heritage.",
+      "image": "https://images.unsplash.com/photo-1708149596234-c57dc83796f0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1hcGxlJTIwc3lydXAlMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
+      "emails_registered": [],
+      "city": "new-hampshire",
+      "country": "us"
+    },
+    {
+      "id": "jersey-food-carnival",
+      "title": "Jersey Food Carnival",
+      "description": "The Jersey City Night Market is a vibrant, family-friendly open-air event that celebrates the diverse culture and community of Jersey City. Held bi-monthly at the City Hall Ancillary Lot, the market features a dynamic mix of over 50 food vendors offering a variety of cuisines, local artisans showcasing their crafts, live music performances, and a lively atmosphere that captures the essence of the city. It's a free event, welcoming all to enjoy delicious food, unique handmade goods, and the rich cultural tapestry of Jersey City.",
+      "image": "https://images.unsplash.com/photo-1543353071-873f17a7a088?ixlib=rb-4.0.3&auto=format&fit=crop&w=880&q=80",
+      "emails_registered": [],
+      "city": "new-jersey",
+      "country": "us"
+    }
+  ]
+}
